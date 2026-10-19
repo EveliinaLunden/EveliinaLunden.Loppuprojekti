@@ -97,14 +97,14 @@ I read this interesting quote the other day:
 
  Be careful when holding the knife.
 
- For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
+ For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.  
 ## _Paragraphs_
-### 1
+### 1  
  We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
 Nor did it occur to one of us there  
 To doubt they were kneeling then.
-### 2
+### 2  
 1. Crack three eggs over a bowl.  
 Now, you're going to want to crack the eggs in such a way that you don't make a mess.  
 If you _do_ make a mess, use a towel to clean it up!
