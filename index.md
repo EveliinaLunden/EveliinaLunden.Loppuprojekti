@@ -64,22 +64,21 @@ I read this interesting quote the other day:
 
 ## _Lists_
 ### 1  
-
 * Flour
 * Cheese
-* Tomatoes  
-### 2  
+* Tomatoes
 
+### 2  
 1. Cut the cheese
 2. Slice the tomatoes
-3. Rub the tomatoes in flour  
-### 3  
+3. Rub the tomatoes in flour
 
+### 3  
 * Azalea (_Ericaceae Rhododendron_)
 * Chrysanthemum (_Anthemideae Chrysanthemum_)
-* Dahlia (_Coreopsideae Dahlia_)  
-### 4  
+* Dahlia (_Coreopsideae Dahlia_)
 
+### 4  
 * Calculus  
   * A professor
   * Has no hair
@@ -89,8 +88,7 @@ I read this interesting quote the other day:
   * Has white hair
   * Is very famous
 
-### 5
-
+### 5  
 1. Cut the cheese
 
  Make sure that the cheese is cut into little triangles.
@@ -100,8 +98,8 @@ I read this interesting quote the other day:
  Be careful when holding the knife.
 
  For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
- ## _Paragraphs_
- ### 1
+## _Paragraphs_
+### 1
  We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
 Nor did it occur to one of us there  
