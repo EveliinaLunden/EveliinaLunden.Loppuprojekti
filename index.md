@@ -74,10 +74,10 @@ I read this interesting quote the other day:
  * A professor
  * Has no hair
  * Often wears green
-* Castafiore  
+* Castafiore
  * An opera singer
  * Has white hair
- * Is very famous  
+ * Is very famous
 ### 5
 1. Cut the cheese
 
